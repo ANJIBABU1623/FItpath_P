@@ -1,0 +1,16 @@
+*{
+    margin: 0px;
+    padding: 0px;
+
+}
+.main_heading{
+    background-color: blue;
+    color: white;
+
+}
+.main_heading h1{
+    text-align: center;
+}
+.main_heading h2{
+    text-align: end;
+}

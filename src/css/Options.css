@@ -1,0 +1,34 @@
+.options{
+    display: flex;
+    margin-bottom: 5vh;
+}
+.Weight_gain{
+
+    height: 35vh;
+    width: 35vw;
+    border: 1px solid black;
+    margin-left: 2px;
+
+}
+.Weight_Loss{
+    height: 35vh;
+    width: 35vw;
+    border: 1px solid black;
+    margin-left: 2px;
+}
+.Fitness{
+    height: 35vh;
+    width: 35vw;
+    border: 1px solid black;
+    margin-left: 2px;
+    margin-right: 2px;
+
+}
+.Weight_gain input{
+    
+  padding: 10px;
+  border: 1px solid #ccc;
+  border-radius: 6px;
+  font-size: 16px;
+
+}
